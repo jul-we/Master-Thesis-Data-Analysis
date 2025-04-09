@@ -1,1 +1,1 @@
-# Master-Thesis-Data-Analysis
+# Master Thesis Data Analysis
